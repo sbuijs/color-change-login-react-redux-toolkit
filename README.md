@@ -1,3 +1,33 @@
+<div id="top"></div>
+
+
+<h1 align="left">Color change login react redux toolkit</h1>
+  <p align="left">
+Learning ReactJs and Redux toolkit<br/>
+You can change the font color and check with redux if someone is logged in/logged out<br/>       
+  <a href="https://sbuijs.github.io/color-change-login-react-redux-toolkit/">View Demo</a>
+  </p>
+</div>
+<br/>
+<br/>
+![Uploading Screenshot 2022-04-28 at 10.05.30.png…]()
+
+## Built With
+- ReactJS
+- Redux toolkit
+
+
+## Contact
+
+Stephanie Buijs - buijs.s@gmail.com<br/>
+Project Link: [https://github.com/sbuijs/color-change-login-react-redux-toolkit](https://github.com/sbuijs/color-change-login-react-redux-toolkit)<br/>
+
+
+
+<p align="left">(<a href="#top">back to top</a>)</p>
+
+---
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
