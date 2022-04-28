@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/sbuijs/react-redux-toolkit-experiment",
-  "name": "react-redux-toolkit-experiment",
+  "homepage": "https://github.com/sbuijs/",
+  "name": "color-change-login-react-redux-toolkit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

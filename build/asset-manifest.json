@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sbuijs/react-redux-toolkit-experiment/static/css/main.abd64e84.css",
-    "main.js": "/sbuijs/react-redux-toolkit-experiment/static/js/main.83fd127c.js",
-    "index.html": "/sbuijs/react-redux-toolkit-experiment/index.html",
-    "main.abd64e84.css.map": "/sbuijs/react-redux-toolkit-experiment/static/css/main.abd64e84.css.map",
-    "main.83fd127c.js.map": "/sbuijs/react-redux-toolkit-experiment/static/js/main.83fd127c.js.map"
+    "main.css": "/sbuijs/static/css/main.abd64e84.css",
+    "main.js": "/sbuijs/static/js/main.83fd127c.js",
+    "index.html": "/sbuijs/index.html",
+    "main.abd64e84.css.map": "/sbuijs/static/css/main.abd64e84.css.map",
+    "main.83fd127c.js.map": "/sbuijs/static/js/main.83fd127c.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
