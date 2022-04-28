@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sbuijs/static/css/main.abd64e84.css",
-    "main.js": "/sbuijs/static/js/main.83fd127c.js",
-    "index.html": "/sbuijs/index.html",
-    "main.abd64e84.css.map": "/sbuijs/static/css/main.abd64e84.css.map",
-    "main.83fd127c.js.map": "/sbuijs/static/js/main.83fd127c.js.map"
+    "main.css": "/sbuijs/color-change-login-react-redux-toolkit/static/css/main.abd64e84.css",
+    "main.js": "/sbuijs/color-change-login-react-redux-toolkit/static/js/main.83fd127c.js",
+    "index.html": "/sbuijs/color-change-login-react-redux-toolkit/index.html",
+    "main.abd64e84.css.map": "/sbuijs/color-change-login-react-redux-toolkit/static/css/main.abd64e84.css.map",
+    "main.83fd127c.js.map": "/sbuijs/color-change-login-react-redux-toolkit/static/js/main.83fd127c.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
