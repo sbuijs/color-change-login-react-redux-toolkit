@@ -10,7 +10,8 @@ You can change the font color and check with redux if someone is logged in/logge
 </div>
 <br/>
 <br/>
-![Uploading Screenshot 2022-04-28 at 10.05.30.png…]()
+<img width="1552" alt="Screenshot 2022-04-28 at 10 06 04" src="https://user-images.githubusercontent.com/1607627/165706950-c40dd74a-e2dc-4d12-b7d1-6ddbb4ce0c97.png">
+
 
 ## Built With
 - ReactJS
